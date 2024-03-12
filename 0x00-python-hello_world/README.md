@@ -1,1 +1,1 @@
-0x00. Python - Hello, World
+Solutions to 0x00. Python - Hello, World
